@@ -1,0 +1,30 @@
+{
+  "name": "allinone",
+  "version": "1.0.0",
+  "description": "software architecture all in one folder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enyawson/softwareArchitecture.git"
+  },
+  "keywords": [
+    "sotware",
+    "architecture"
+  ],
+  "author": "enyawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enyawson/softwareArchitecture/issues"
+  },
+  "homepage": "https://github.com/enyawson/softwareArchitecture#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
